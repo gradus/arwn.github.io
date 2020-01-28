@@ -1,0 +1,3 @@
+[submodule "dota-write-up"]
+	path = dota-write-up
+	url = git@github.com:arwn/dota-write-up.git
